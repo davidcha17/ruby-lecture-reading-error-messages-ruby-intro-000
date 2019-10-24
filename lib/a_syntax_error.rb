@@ -1,3 +1,3 @@
-x = 1
+puts y= 1
 
-y = 3
+ puts y = 3
